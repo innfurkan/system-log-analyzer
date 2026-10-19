@@ -1,0 +1,24 @@
+SUMMARY
+-------
+Total Events: 7
+Valid Events: 6
+Invalid Events: 1
+
+INFO: 2
+WARNING: 1
+ERROR: 2
+UNKNOWN SEVERITY: 1
+
+ERROR EVENTS
+-----
+14:33:17 ERROR - {event["message"]}
+14:34:51 ERROR - {event["message"]}
+
+SENSOR EVENTS
+------
+14:31:05 INFO - {event["message"]}
+14:34:51 ERROR - {event["message"]}
+
+BATTERY EVENTS
+-------
+NO EVENT FOUND

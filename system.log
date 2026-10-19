@@ -1,0 +1,7 @@
+2026-10-16 14:31:02 INFO System started
+2026-10-16 14:31:05 info Sensor initialized
+2026-10-16 14:32:08 WARNING Temperature high
+2026-10-16 14:33:17 ERROR Motor communication failed
+2026-10-16 14:34:51 ERROR Sensor timeout
+2026-10-16 14:40:00 CRITICAL CPU overheating
+Invalid log entry
